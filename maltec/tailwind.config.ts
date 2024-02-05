@@ -16,6 +16,9 @@ const config = {
       screens: {
         "2xl": "1400px",
       },
+  font-family: {
+	  Merriweather: ['Merriweather', serif] ;
+          Protest Riot: ['Protest Riot', sans-serif] ;
     },
     extend: {
       colors: {
